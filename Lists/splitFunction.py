@@ -8,3 +8,5 @@ print("Now Seperating using , !!!")
 ip = input("Enter values : ")
 res = ip.split(",")
 print(res)
+
+
